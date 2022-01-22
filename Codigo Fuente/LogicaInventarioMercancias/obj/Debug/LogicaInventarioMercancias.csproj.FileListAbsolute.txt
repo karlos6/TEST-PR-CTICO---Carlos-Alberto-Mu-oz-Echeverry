@@ -1,0 +1,12 @@
+C:\Users\carlo\OneDrive\Desktop\Inventario\LogicaInventarioMercancias\bin\Debug\LogicaInventarioMercancias.dll
+C:\Users\carlo\OneDrive\Desktop\Inventario\LogicaInventarioMercancias\bin\Debug\LogicaInventarioMercancias.pdb
+C:\Users\carlo\OneDrive\Desktop\Inventario\LogicaInventarioMercancias\bin\Debug\AccesoDeDatos.dll
+C:\Users\carlo\OneDrive\Desktop\Inventario\LogicaInventarioMercancias\bin\Debug\EntityFramework.dll
+C:\Users\carlo\OneDrive\Desktop\Inventario\LogicaInventarioMercancias\bin\Debug\AccesoDeDatos.pdb
+C:\Users\carlo\OneDrive\Desktop\Inventario\LogicaInventarioMercancias\bin\Debug\AccesoDeDatos.dll.config
+C:\Users\carlo\OneDrive\Desktop\Inventario\LogicaInventarioMercancias\bin\Debug\EntityFramework.xml
+C:\Users\carlo\OneDrive\Desktop\Inventario\LogicaInventarioMercancias\obj\Debug\LogicaInventarioMercancias.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Inventario\LogicaInventarioMercancias\obj\Debug\LogicaInventarioMercancias.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Inventario\LogicaInventarioMercancias\obj\Debug\LogicaInventarioMercancias.dll
+C:\Users\carlo\OneDrive\Desktop\Inventario\LogicaInventarioMercancias\obj\Debug\LogicaInventarioMercancias.pdb
+C:\Users\carlo\OneDrive\Desktop\Inventario\LogicaInventarioMercancias\obj\Debug\LogicaInventarioMercancias.csproj.CopyComplete

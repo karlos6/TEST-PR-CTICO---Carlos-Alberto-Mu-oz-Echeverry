@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="InventarioMercanciasModelStoreContainer" CdmEntityContainer="InventarioMercanciasEntities">
+    <EntitySetMapping Name="tb_articulo">
+      <EntityTypeMapping TypeName="InventarioMercanciasModel.tb_articulo">
+        <MappingFragment StoreEntitySet="tb_articulo">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="id_bodega" ColumnName="id_bodega" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_bodega">
+      <EntityTypeMapping TypeName="InventarioMercanciasModel.tb_bodega">
+        <MappingFragment StoreEntitySet="tb_bodega">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

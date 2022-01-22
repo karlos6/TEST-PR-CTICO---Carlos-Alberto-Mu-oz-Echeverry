@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="InventarioMercanciasModelStoreContainer" CdmEntityContainer="InventarioMercanciasEntities">
+    <EntitySetMapping Name="tb_articulo">
+      <EntityTypeMapping TypeName="InventarioMercanciasModel.tb_articulo">
+        <MappingFragment StoreEntitySet="tb_articulo">
+          <ScalarProperty Name="precio" ColumnName="precio" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="id_bodega" ColumnName="id_bodega" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_bodega">
+      <EntityTypeMapping TypeName="InventarioMercanciasModel.tb_bodega">
+        <MappingFragment StoreEntitySet="tb_bodega">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_log">
+      <EntityTypeMapping TypeName="InventarioMercanciasModel.tb_log">
+        <MappingFragment StoreEntitySet="tb_log">
+          <ScalarProperty Name="cantidadTranferidas" ColumnName="cantidadTranferidas" />
+          <ScalarProperty Name="id_articulo" ColumnName="id_articulo" />
+          <ScalarProperty Name="id_bodega_destino" ColumnName="id_bodega_destino" />
+          <ScalarProperty Name="id_bodega_origen" ColumnName="id_bodega_origen" />
+          <ScalarProperty Name="hora" ColumnName="hora" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

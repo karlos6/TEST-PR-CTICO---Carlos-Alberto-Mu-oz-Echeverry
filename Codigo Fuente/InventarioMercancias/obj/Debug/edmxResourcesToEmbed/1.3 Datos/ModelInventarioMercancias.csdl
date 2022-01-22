@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="InventarioMercanciasModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tb_articulo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="descripcion" Type="String" MaxLength="300" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="id_bodega" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tb_bodega" Relationship="Self.FK__tb_articu__id_bo__1273C1CD" FromRole="tb_articulo" ToRole="tb_bodega" />
+  </EntityType>
+  <EntityType Name="tb_bodega">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="tb_articulo" Relationship="Self.FK__tb_articu__id_bo__1273C1CD" FromRole="tb_bodega" ToRole="tb_articulo" />
+  </EntityType>
+  <Association Name="FK__tb_articu__id_bo__1273C1CD">
+    <End Role="tb_bodega" Type="Self.tb_bodega" Multiplicity="1" />
+    <End Role="tb_articulo" Type="Self.tb_articulo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_bodega">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="tb_articulo">
+        <PropertyRef Name="id_bodega" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="InventarioMercanciasEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tb_articulo" EntityType="Self.tb_articulo" />
+    <EntitySet Name="tb_bodega" EntityType="Self.tb_bodega" />
+    <AssociationSet Name="FK__tb_articu__id_bo__1273C1CD" Association="Self.FK__tb_articu__id_bo__1273C1CD">
+      <End Role="tb_bodega" EntitySet="tb_bodega" />
+      <End Role="tb_articulo" EntitySet="tb_articulo" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

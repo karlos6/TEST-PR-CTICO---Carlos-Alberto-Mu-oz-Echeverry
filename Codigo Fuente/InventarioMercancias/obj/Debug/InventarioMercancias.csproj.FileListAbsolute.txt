@@ -1,0 +1,63 @@
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\bin\Debug\InventarioMercancias.exe.config
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\bin\Debug\InventarioMercancias.exe
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\bin\Debug\InventarioMercancias.pdb
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\bin\Debug\EntityFramework.dll
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\bin\Debug\EntityFramework.xml
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\obj\Debug\InventarioMercancias.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\obj\Debug\InventarioMercancias.CrearBodega.resources
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\obj\Debug\InventarioMercancias.InventarioVista.resources
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\obj\Debug\InventarioMercancias.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\obj\Debug\InventarioMercancias.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\obj\Debug\InventarioMercancias.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\obj\Debug\InventarioMercancias.exe
+C:\Users\carlo\OneDrive\Desktop\InventarioMercancias\obj\Debug\InventarioMercancias.pdb
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\bin\Debug\InventarioMercancias.exe.config
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\bin\Debug\InventarioMercancias.exe
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\bin\Debug\InventarioMercancias.pdb
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\bin\Debug\EntityFramework.dll
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\bin\Debug\LogicaInventarioMercancias.dll
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\bin\Debug\LogicaInventarioMercancias.pdb
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\bin\Debug\EntityFramework.xml
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\obj\Debug\InventarioMercancias.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\obj\Debug\InventarioMercancias.CrearBodega.resources
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\obj\Debug\InventarioMercancias.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\obj\Debug\InventarioMercancias.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\obj\Debug\InventarioMercancias.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\obj\Debug\InventarioMercancias.exe
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\obj\Debug\InventarioMercancias.pdb
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\bin\Debug\AccesoDeDatos.dll
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\bin\Debug\AccesoDeDatos.pdb
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\bin\Debug\AccesoDeDatos.dll.config
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\obj\Debug\InventarioMercancias.Ventanas.CrearArticulo.resources
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\obj\Debug\InventarioMercancias.GestionPrograma.resources
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\obj\Debug\InventarioMercancias.Ventanas.Inventario.resources
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\obj\Debug\InventarioMercancias.Ventanas.TrasferenciaArticulos.resources
+C:\Users\carlo\OneDrive\Desktop\Inventario\InventarioMercancias\obj\Debug\InventarioMercancias.Ventanas.ListaLog.resources
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\bin\Debug\InventarioMercancias.exe.config
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\bin\Debug\InventarioMercancias.exe
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\bin\Debug\InventarioMercancias.pdb
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\bin\Debug\EntityFramework.dll
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\bin\Debug\LogicaInventarioMercancias.dll
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\bin\Debug\AccesoDeDatos.dll
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\bin\Debug\LogicaInventarioMercancias.pdb
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\bin\Debug\EntityFramework.xml
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\bin\Debug\AccesoDeDatos.pdb
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\bin\Debug\AccesoDeDatos.dll.config
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\obj\Debug\InventarioMercancias.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\obj\Debug\InventarioMercancias.Ventanas.CrearArticulo.resources
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\obj\Debug\InventarioMercancias.CrearBodega.resources
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\obj\Debug\InventarioMercancias.GestionPrograma.resources
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\obj\Debug\InventarioMercancias.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\obj\Debug\InventarioMercancias.Ventanas.Inventario.resources
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\obj\Debug\InventarioMercancias.Ventanas.ListaLog.resources
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\obj\Debug\InventarioMercancias.Ventanas.TrasferenciaArticulos.resources
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\obj\Debug\InventarioMercancias.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\obj\Debug\InventarioMercancias.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\obj\Debug\InventarioMercancias.exe
+C:\Users\carlo\OneDrive\Desktop\TEST PRÁCTICO - Carlos Alberto Muñoz Echeverry\Codigo Fuente\InventarioMercancias\obj\Debug\InventarioMercancias.pdb
